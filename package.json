@@ -1,0 +1,17 @@
+{
+  "name": "Rocketseat-Node-Backend",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/Machilas1407/Rocketseat-Node-Backend.git",
+  "author": "machilas <marcello.machilas@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
